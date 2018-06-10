@@ -91,6 +91,13 @@ figcaption {
   background-color: #ccc;
 }
 
+.clear.fix.after{
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+}
+
 [class*="col-"]{
   margin-left: 2%;
 }
