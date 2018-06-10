@@ -91,7 +91,7 @@ figcaption {
   background-color: #ccc;
 }
 
-.clearfix.after{
+.clearfix.after {
   content: ".";
   display: block;
   clear: both;
@@ -100,10 +100,10 @@ figcaption {
   line-height: 0;
 }
 
-[class*="col-"]{
+[class*="col-"] {
   margin-left: 2%;
 }
 
-.first{
+.first {
   margin-left: 0%;
 }
