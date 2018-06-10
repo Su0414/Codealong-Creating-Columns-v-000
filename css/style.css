@@ -91,7 +91,7 @@ figcaption {
   background-color: #ccc;
 }
 
-.clearfix.after {
+.clearfix:after {
   content: ".";
   display: block;
   clear: both;
